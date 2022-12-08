@@ -1,0 +1,17 @@
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\bin\Release\RachnerZahlsystemen.exe.config
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\bin\Release\RachnerZahlsystemen.exe.manifest
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\bin\Release\RachnerZahlsystemen.application
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\bin\Release\RachnerZahlsystemen.exe
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\bin\Release\RachnerZahlsystemen.pdb
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Release\RachnerZahlsystemen.csproj.AssemblyReference.cache
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Release\RachnerZahlsystemen.csproj.SuggestedBindingRedirects.cache
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Release\RachnerZahlsystemen.Form1.resources
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Release\RachnerZahlsystemen.Properties.Resources.resources
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Release\RachnerZahlsystemen.csproj.GenerateResource.cache
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Release\RachnerZahlsystemen.csproj.CoreCompileInputs.cache
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Release\RachnerZahlsystemen.exe.manifest
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Release\RachnerZahlsystemen.application
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Release\RachnerZahlsystemen.exe
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Release\RachnerZahlsystemen.pdb
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\bin\Release\RachnerZahlsystemen.exe.CodeAnalysisLog.xml
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\bin\Release\RachnerZahlsystemen.exe.lastcodeanalysissucceeded

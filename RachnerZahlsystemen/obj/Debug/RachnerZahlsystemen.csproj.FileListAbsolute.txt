@@ -1,0 +1,15 @@
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\bin\Debug\RachnerZahlsystemen.exe.config
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\bin\Debug\RachnerZahlsystemen.exe
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\bin\Debug\RachnerZahlsystemen.pdb
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Debug\RachnerZahlsystemen.csproj.AssemblyReference.cache
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Debug\RachnerZahlsystemen.csproj.SuggestedBindingRedirects.cache
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Debug\RachnerZahlsystemen.Form1.resources
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Debug\RachnerZahlsystemen.Properties.Resources.resources
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Debug\RachnerZahlsystemen.csproj.GenerateResource.cache
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Debug\RachnerZahlsystemen.csproj.CoreCompileInputs.cache
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Debug\RachnerZahlsystemen.exe
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Debug\RachnerZahlsystemen.pdb
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\bin\Debug\RachnerZahlsystemen.exe.manifest
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\bin\Debug\RachnerZahlsystemen.application
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Debug\RachnerZahlsystemen.exe.manifest
+C:\C.Sharp\RachnerZahlsystemen\RachnerZahlsystemen\obj\Debug\RachnerZahlsystemen.application
